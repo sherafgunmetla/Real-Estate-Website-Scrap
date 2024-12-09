@@ -1,1 +1,3 @@
-# Real-Estate-Website-Scrap
+# Real Estate Website Scrap
+
+## Purpose 
